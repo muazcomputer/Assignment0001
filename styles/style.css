@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+font-family: "Work Sans", sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* button style */
+.btn-containner {
+    text-align: center;
+}
+
+#btn {
+    padding: 10px 24px 21px;
+}
+
+/* backgroud Image style */
+
+#hero {
+    height: 898px;
+    background-image: url("../assets/hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#hero .hero-content {
+    width: 652px;
+
+}
+
+#hero .hero-content .title {
+    color: #0D0D21;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 0.8;
+    margin bottom:16px;
+}
+
+#hero .hero-content .description {
+    color: #0D1321;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 100px;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.8;
+    margin bottom: 32px;
+}
+
+#hero .hero-content .btn {
+    color: white;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 100px;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: center;
+    background-color:#0D1321;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+.centeries {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 240px;
+    height: 240px;
+}
+
+/* second page */
+
+#hero-2 {
+    padding: 74px;
+    color: #0D0D21;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 0.8;
+
+}
+
+.hero-3 {
+    display: flex;
+    text-align:left;
+    align-items:self-start;
+    margin: auto;
+    padding-top: 50px;
+    width: 652px;
+    color: #0D0D21;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    opacity: 0.8;
+
+}
+
+.hero-4 {
+    display: flex;
+    text-align:right;
+    margin: auto;
+    padding-top: 50px;
+    width: 652px;
+    color: #0D0D21;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    opacity: 0.8;
+
+}
+
+.hero-5 {
+    display: flex;
+    text-align:left;
+    align-items:self-start;
+    margin: auto;
+    padding-top: 50px;
+    width: 652px;
+    color: #0D0D21;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    opacity: 0.8;
+
+}
+
+
+.hero-6 {
+    display:block;
+    text-align:center;
+    margin: auto;
+    padding-top: 74px;
+    width: 652px
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 38px;
+    letter-spacing: 0px;
+    opacity: 0.8;
+
+}
+
+.janu {
+    display: flex;
+    text-align:left;
+    padding-top: 74px;
+    width: 652px;
+    margin:auto;
+
+}
+
+.hero-7 {
+    text-align: center;
+
+}
