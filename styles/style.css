@@ -19,7 +19,7 @@ font-family: "Work Sans", sans-serif;
 
 #hero {
     height: 898px;
-    background-image: url("../assets/hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
     background-size: cover;
     background-position: center;
     display: flex;
